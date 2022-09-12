@@ -1,4 +1,4 @@
-FROM secoresearch/fuseki:4.5.0
+FROM secoresearch/fuseki:3.8.0
 
 
 ENV ASSEMBLER $FUSEKI_BASE/configuration/model-catalog.ttl
