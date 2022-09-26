@@ -1,6 +1,6 @@
 services:
   endpoint:
     build: .
-    image: ikcap/model-catalog-endpoint:latest
+    image: ikcap/model-catalog-endpoint-wifire:latest
     ports:
       - 3030:3030
